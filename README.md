@@ -1,29 +1,23 @@
-Projeto iniciado utilizando [Create React App](https://github.com/facebook/create-react-app).
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts disponíveis
+## Available Scripts
 
-Todos scripts providos do `create-react-app` funcionaram aqui. Entretanto, os principais são:
+All Create React App scripts are available. However, the most important scripts are:
 
 ### `yarn start`
 
-Rodar o projeto em modo de desenvolvimento.<br>
-O projeto estará disponível em [http://localhost:3000](http://localhost:3000).
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-A página irá recarregar assim que você fizer edições.<br>
-Erros relacionados ao lint irão aparecer no console.
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-### `yarn run build`
+### `yarn build`
 
-Faz uma versão minificada para produção, disponível na pasta `/build`.<br>
-A versão minificada é mais performática e está pronta para deploy.
-Veja mais em [deployment](https://facebook.github.io/create-react-app/docs/deployment).
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### `yarn run eject`
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
-**Atenção: você não pode voltar atrás após efetuar um `eject`. Tome cuidado.**
-
-Caso esteja insatisfeito com a arquitetura e configuraçẽos do create-react-app, você pode rodar `yarn run eject` a qualquer momento.
-
-Todos arquivos de configurações (Webpack, Babel, ESLint) irão ser copiados para pasta do projeto para serem modificados como quiser. O comando `eject` não irá mais funcionar, todos outros funcionaram normalmente.
-
-O `eject` não é recomendado. Os arquivos de configurações pre-definidos pelo create-react-app vem seguido de boas-práticas e normalizações que facilitam na leitura do código posteriormente. Mas fique a vontade caso queira ejetar mesmo assim.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
