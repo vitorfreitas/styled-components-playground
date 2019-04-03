@@ -27,7 +27,3 @@ Caso esteja insatisfeito com a arquitetura e configuraçẽos do create-react-ap
 Todos arquivos de configurações (Webpack, Babel, ESLint) irão ser copiados para pasta do projeto para serem modificados como quiser. O comando `eject` não irá mais funcionar, todos outros funcionaram normalmente.
 
 O `eject` não é recomendado. Os arquivos de configurações pre-definidos pelo create-react-app vem seguido de boas-práticas e normalizações que facilitam na leitura do código posteriormente. Mas fique a vontade caso queira ejetar mesmo assim.
-
-## Objetivo do projeto/repositório
-
-Desenvolver práticas com React e styled-components, buscando melhorar as boas práticas de desenvolvimento utilizadas com essas ferramentas. Sugestões e comentários são bem vindos.
